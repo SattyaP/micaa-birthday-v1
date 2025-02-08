@@ -3,8 +3,8 @@ import { useEffect, useRef } from "react";
 import Lenis from '@studio-freight/lenis';
 
 const images = [
-    { image: "confetti.png", x: -20, y: 70 },
-    { image: "confetti(1).png", x: 90, y: 70 },
+    { image: "confetti.png", x: -20, y: 90 },
+    { image: "confetti(1).png", x: 90, y: 90 },
     { image: "abstract.png", x: 90, y: 10 },
     { image: "abstract.png", x: -20, y: 0 },
 ];
